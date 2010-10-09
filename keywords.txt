@@ -1,0 +1,36 @@
+#######################################
+# Syntax Coloring RGB Led
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+RGBLed	  KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+on	      KEYWORD2
+off	      KEYWORD2
+red	      KEYWORD2
+green   	KEYWORD2
+blue	    KEYWORD2
+yellow	  KEYWORD2
+purple	  KEYWORD2
+turquoise KEYWORD2
+animate	  KEYWORD2
+next      KEYWORD2
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+OFF       LITERAL1
+RED       LITERAL1
+GREEN     LITERAL1
+BLUE      LITERAL1
+YELLOW    LITERAL1
+PURPLE    LITERAL1
+TURQUOISE LITERAL1
+ANIMATE   LITERAL1
